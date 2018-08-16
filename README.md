@@ -1,3 +1,7 @@
+
+fork from https://github.com/daquexian/FlexibleRichTextView.git 
+
+
 # FlexibleRichTextView
 
 [中文版](README.zh-cn.md)
