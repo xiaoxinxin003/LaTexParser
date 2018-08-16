@@ -1,3 +1,6 @@
+
+for from:https://github.com/daquexian/FlexibleRichTextView.git
+
 # FlexibleRichTextView
 
 ## 简介
