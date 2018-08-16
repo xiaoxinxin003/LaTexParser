@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QuoteView"><attr format="reference" name="buttonId"/></declare-styleable>
+    <string name="app_name">LaTexLibrary</string>
+    <string name="collapse">collapse  ↑</string>
+    <string name="expand">expand  ↓</string>
+</resources>
